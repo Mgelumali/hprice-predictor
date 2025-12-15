@@ -106,4 +106,6 @@ Use DNS-based service discovery: `streamlit` will call `fastapi` via `http://fas
 * How different roles (ML, AI, Data, DevOps, QA) work on the same ML system using Compose
 
 ---
+<img width="1859" height="861" alt="Screenshot 2025-12-15 113123" src="https://github.com/user-attachments/assets/591a0c8a-9f50-4717-93a6-8d272e6afd28" />
+
 

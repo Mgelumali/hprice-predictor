@@ -1,0 +1,18 @@
+version: '3.9'
+services:
+  fastapi:
+    image: docker.io/mggandan/mlops_python:fastapi_mlops
+    build:
+      context: "./"
+      dockerfile: "Dockerfile"
+    ports:
+      - "8000:8000"
+  streamlit:
+    image: docker.io/mggandan/mlops_python:mlops_db
+    build:
+      context: "streamlit_app/"
+      dockerfile: "Dockerfile"
+    ports:
+      - "8501:8501"
+    environment:
+          KEY: Value

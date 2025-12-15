@@ -107,5 +107,6 @@ Use DNS-based service discovery: `streamlit` will call `fastapi` via `http://fas
 
 ---
 <img width="1859" height="861" alt="Screenshot 2025-12-15 113123" src="https://github.com/user-attachments/assets/591a0c8a-9f50-4717-93a6-8d272e6afd28" />
+<img width="1814" height="739" alt="Screenshot 2025-12-15 113759" src="https://github.com/user-attachments/assets/c1b04ff0-487e-4890-994a-4a60d5ba0bd1" />
 
 
